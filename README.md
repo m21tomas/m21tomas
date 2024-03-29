@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @m21tomas - Tomas Mockaitis.
+- 👋 Hi, I’m @m21tomas
 - 👀 I’m interested in React, Java, c++.
 - 🌱 I’m currently learning React and spring boot.
 - 💞️ I’m looking to collaborate on React projects.
